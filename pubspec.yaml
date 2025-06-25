@@ -11,17 +11,17 @@ dependencies:
   flutter:
     sdk: flutter
   args: ^2.4.2
-  collection: ^1.18.0
-  intl: ">=0.18.0 <0.20.0"
-  intl_utils: ^2.8.7
-  shared_preferences: ^2.2.2
-  dcli: ^6.0.5
-  dart_console: ^4.1.0
+  collection: ^1.19.1
+  intl: ^0.20.2
+  intl_utils: ^2.8.10
+  shared_preferences: ^2.5.3
+  dcli: ^7.0.5
+  dart_console: ^4.1.2
 
 dev_dependencies:
-  lints: ^4.0.0
-  test: ^1.25.2
-  win32: ^5.4.0
+  lints: ^6.0.0
+  test: ^1.26.2
+  win32: ^5.14.0
 
 executables:
   arb_utils:
